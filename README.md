@@ -1,4 +1,5 @@
 # git-learning-jkjkkjk
 Learning git
 hi
-himeethu
+home Thu
+hi 
